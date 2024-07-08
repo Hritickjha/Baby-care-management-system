@@ -21,3 +21,26 @@ The Baby Care Management System is designed to assist parents and caregivers in 
     ```bash
     pip install -r requirements.txt
     ```
+
+## Usage
+1. Run the main application script:
+    ```bash
+    python Main.py
+    ```
+2. Follow the on-screen instructions to log and manage baby care activities.
+
+## Code Description
+The code defines a `BabyCareManagementSystem` class with methods to log activities, view logged activities, and generate reports, and includes a `main` function to interact with the user through a command-line interface.
+
+## Screenshots
+![Screenshot](Screenshot%202024-07-06%20161721.png)
+
+## Contributing
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes and commit them (`git commit -m 'Add some feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## Contact
+For any questions or suggestions, please contact [Hritickjha](https://github.com/Hritickjha).
